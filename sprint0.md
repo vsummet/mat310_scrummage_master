@@ -1,13 +1,13 @@
 # Roadmap:
 * Teams
 * Sprint Duration: Monday 1/29 - Monday 2/5 at beginning of class
-* There will be no quiz for this sprint.  Normally, quiz time would be Monday, 2/5 at the beginning of class.  This time, we will spend this time presenting projects instead.
+* Quiz time would be Monday, 2/5 at the beginning of class.  This time, we will spend this time presenting projects instead.
 * Requirements due Monday, 2/5 at the beginning of class.
 * Rationale: 
 
-Sprint 0 will get you acclimated to the unique way the class will be run.  There will be NO quiz for this sprint - I just want to iron out the process with you.  During this sprint, we will do some background work learning about scrum (and the online tool Trello) as well as some basics of Discrete Math (like what it is!).  You will be responsible for knowing some basic Math notation and definitions that will help us all be on the same page from here on out.  You will come up with creative ways to express these math concepts to your peers. All of these requirements are trying to pave the way for the rest of the course: giving us shared tools, shared knowledge base, and shared vocabulary.
+Sprint 1 will get you acclimated to the unique way the class will be run.  The first part is ironing out the Scrum process with you.  During this sprint, we will do some background work learning about Scrum (and the online tool Trello) as well as review some basics of Discrete Math (MAT140).  You will be responsible for knowing some basic Math notation and definitions that will help us all be on the same page from here on out.  You will do a couple of problem sets.  All of these requirements are trying to pave the way for the rest of the course: giving us shared tools, shared knowledge base, and shared vocabulary.
 
-I am having you read a little out of a book I love called How to Bake Pi.  It is not a technical book - it is a general book that defines Math using the metaphor of cooking.  I am also having you read from a non-technical book about the value of Scrum, the methodology we will be using in this course.  It is from Scrum: The Art of Doing Twice the Work in Half the Time, written by one of the founders of Scrum. It is about why Scrum works, and it is the book I was reading when I thought of the idea for how to run this course.  I find both of these inspirational and I'm hoping you will, too. 
+I am having you read from a non-technical book about the value of Scrum, the methodology we will be using in this course.  It is from Scrum: The Art of Doing Twice the Work in Half the Time, written by one of the founders of Scrum. It is about why Scrum works, and it is the book I was reading when I thought of the idea for how to run this course.  I find this reading inspirational, and I'm hoping you will too. 
 
 # Responsibilities (What you need to know):
 1. Definition of Discrete Math
