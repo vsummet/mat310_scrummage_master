@@ -1,0 +1,4 @@
+Core Skillsof this Assignment:
+* Collaboration(Why? Collaboration is a nearlyuniversal expectation for both professional life and family/friendships. Practicing those skills at Rollins is one of the differentiators of your liberal arts education.)
+* Research(Why?“Research”doesn’t have to be a burdensomeor scary thing. You do research every time you open Yelp to choose a restaurant. Academic research is a more refined version of this practice that will help you be successful in future courses as wellas a more effectivecreator of questions, assessor of information, and distiller of key ideas. Employers love this stuff.)
+* Presentation(Why? We’ve spent all semester talking about the fact that howsomething is said is as important as whatis said. Different modes of communication (or “genres”)carry different expectations. Thinking about effective oral presentation and its components will make you better at both written and spoken communication.)
