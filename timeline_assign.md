@@ -34,12 +34,14 @@ George Boole |
 Akira Nakashima |
 
 ### Concepts, theories, etc
-* RSA public-key cryptography
-* formal verification of software
-* P = NP problem
-* ENIAC
-* Lambda calculus
-* Mealy machine (and Moore machine)
-* Petri net (?maybe)
-* Richard's controller
-* Karnaugh map
+|Concept/Theory/Idea | Most relevant to: |
+|----------|-------------|
+RSA public-key cryptography |
+formal verification of software |
+P = NP problem |
+ENIAC |
+Lambda calculus |
+Mealy and Moore machines |
+Petri net (?maybe) |
+Richard's controller |
+Karnaugh map |
