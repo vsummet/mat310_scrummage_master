@@ -1,7 +1,7 @@
 # Roadmap:
 * Teams
-* Sprint Duration: Monday 1/29 - Monday 2/5 at beginning of class
-* Quiz time would be Monday, 2/5 at the beginning of class.  This time, we will spend this time presenting projects instead.
+* Sprint Duration: Tuesday 1/14 - Tuesday 1/28 at beginning of class
+* Quiz time is Tuesday, 1/28 at the beginning of class.
 * Requirements due Monday, 2/5 at the beginning of class.
 
 # Rationale: 
@@ -51,7 +51,8 @@ I may add to these as we go through the sprint.  Use the Expert Request for more
   * [Tutorial Point series on Discrete Math](https://www.tutorialspoint.com/discrete_mathematics/discrete_mathematics_introduction.htm) (up through section on Propositional Logic).
   * Math quick-reference sheet (This is the material I would provide on a quiz.  You don't have to memorize it.)
   * Textbook: 1.1, 1.2, 1.5, 2.1-2.4
-  * Video tutorials on Scrum & Agile.  There are tons.  Check out YouTube.  I also have books on the subject, if you would like.
+  * [Overview of Scrum workflow](https://www.youtube.com/watch?time_continue=5&v=gy1c4_YixCo) (YouTube, 2min)
+  * Video tutorials on Scrum & Agile.  There are tons.  Check out YouTube and Lynda.com.  I also have books on the subject, if you would like.
   * How to draw truth tables. 
   * Lecture slides on Chapter 1 
   * Worksheet on Chapter 1 
@@ -62,7 +63,7 @@ I may add to these as we go through the sprint.  Use the Expert Request for more
   * On Tuesday, do basic team setup and introductions.  Do sprint planning meeting.  Work on syllabus worksheet.
   * TODO by next class:  Get Trello accounts and do Scrum reading. Skim worksheet and problem set, noting problems you have no idea where to start or are confused by.
   * Thursday class: Make sure everyone's on Trello.  Discuss the definitions of Scrum if there are any questions. Enter deliverables on Trello, categorize them into In-Progress and Backlog, and assign topics based on topics you had issues with.
-  * TODO by next class: Read and work through textbook readings.  Do worksheet.
+  * TODO by next class: Read and work through textbook readings.  Do worksheet(s), focusing on areas you're having trouble with.
   * Tuesday: Check worksheet & make sure everyone understands. Start problem set together. Check/Ask professor for help if you're stuck.  Play game together.
   * TODO by Thursday: Have "rough draft" answers for all problems in problem set.  Some may still need group discussion or further clarification.
   * Thursday: Do final check of problem set.  Make sure problem set is neat, tidy, and meets guidelines.  Turn in your problem set at the end of class.
