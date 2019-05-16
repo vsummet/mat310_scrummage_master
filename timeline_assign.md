@@ -18,9 +18,9 @@ For this project, you will:
 ### People
 |Person | Most relevant to: |
 |----------|-------------|
-Alan Turing | 
-Grace Hopper | 
-Noam Chomsky |
+Alan Turing | Sprint 6
+Grace Hopper | Sprint 4
+Noam Chomsky | Sprints 4, 5, 6
 Bertrand Russell |
 Alonzo Church | 
 Kathleen Antonelli |
@@ -28,7 +28,7 @@ Charles Babbage |
 John Backus |
 Stephen Kleene |
 Frances Allen | 
-RÓzsa PÉter | 
+Rózsa Péter | Sprint 7
 Warren McCulloch (and Walter Pitts) |
 George Boole | 
 Akira Nakashima |
@@ -40,7 +40,7 @@ RSA public-key cryptography |
 formal verification of software |
 P = NP problem |
 ENIAC |
-Lambda calculus |
+Lambda calculus | Sprint 7
 Mealy and Moore machines |
 Petri net (?maybe) |
 Richard's controller |
