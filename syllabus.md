@@ -1,11 +1,13 @@
+# MAT 310 - Spring 2020
+
 **Details**
-Instructor: Dr. Valerie Summet
-Class times: TR 4-5:15pm
-Class location: Bush TBD
-Office: Bush 218D
-Office hours: TBD **OR** by appointment **OR** when my door is open
-Text: 
-Software: 
+* Instructor: Dr. Valerie Summet
+  * Office: Bush 218D
+  * Office hours: TBD **OR** by appointment **OR** when my door is open
+* Class time: TR 4-5:15pm
+* Class location: Bush TBD
+* Text: 
+* Software: 
 
 
 **Catalog description:** Catalog description: Builds on the foundation established in Introduction to Discrete Mathematics. Topics include, but are not restricted to, combinatorics and graph theory, Boolean algebra, digital logic circuits, functional programming, models of computation, and computational complexity. Prerequisite: MAT 140.
