@@ -79,7 +79,7 @@ Letter grades:
 ## What I Expect of You:
 * Devote a minimum of 8 hours a week outside of class time
 * Tell me when you're struggling and give me the chance to help you.
-* Make an effort to work productively in your Scrum teams and follow the Scrum values.  ![Scrum Values image][https://github.com/vsummet/mat310_scrummage_master/blob/master/ScrumValues.png]
+* Make an effort to work productively in your Scrum teams and follow the Scrum values.  ![Scrum Values image](https://github.com/vsummet/mat310_scrummage_master/blob/master/ScrumValues.png)
 * Be patient and respectful with me, your teammates, and yourself
 * Notify me in advance when you need to miss a quiz or other in-class activity
 * Stay abreast of class information.  Regularly check the class calendar, Canvas notifications, and your email
