@@ -1,0 +1,1 @@
+One of my goals for you this semester is to allow you to explore an aspect of the course that is of interest to you.  As a class, we'll build a timeline of crucial events, people, and school of thought.  In keeping with the Scrum principle of ... class members will be able to work at their own pace and self-organize the project.
