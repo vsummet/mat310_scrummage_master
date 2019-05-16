@@ -21,7 +21,7 @@ We are going to apply the principles of scrum to education. You will be put in t
 
 # How Will It Work?
 
-Here's the traditional Scrum workflow: ![scrum workflow graphic(https://github.com/vsummet/mat310_scrummage_master/blob/master/ScrumWorkflow.png)
+Here's the traditional Scrum workflow: ![scrum workflow graphic](https://github.com/vsummet/mat310_scrummage_master/blob/master/ScrumWorkflow.png)
 
 In Scrumage, the product owner is the professor.  The professor is in charge of defining the requirements and evaluating the results.  The students will be in teams which will each decide how to proceed to get the requirements done.  Note that the teams are NOT creating software.  The "product backlog" is the requirements of the course: understanding certain material, doing the assignments and projects, and completing a quiz.  
 
