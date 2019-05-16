@@ -16,20 +16,11 @@ For this project, you will:
 
 ## Possible topics:
 ### People
-* Alan Turing
-* Grace Hopper
-* Noam Chomsky
-* Bertrand Russell
-* Alonzo Church
-* Kathleen Antonelli
-* Charles Babbage
-* John Backus
-* Stephen Cole Kleene
-* Frances Allen
-* RÓzsa PÉter
-* Warren McCulloch (and Walter Pitts)
-* George Boole
-* Akira Nakashima
+Alan Turing | Grace Hopper | Noam Chomsky
+Bertrand Russell | Alonzo Church | Kathleen Antonelli
+Charles Babbage | John Backus | Stephen Kleene
+Frances Allen | RÓzsa PÉter | Warren McCulloch (and Walter Pitts)
+George Boole | Akira Nakashima
 
 ### Concepts, theories, etc
 * RSA public-key cryptography
