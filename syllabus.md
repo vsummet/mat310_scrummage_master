@@ -13,7 +13,7 @@
 ## Catalog description:
 Catalog description: Builds on the foundation established in Introduction to Discrete Mathematics. Topics include, but are not restricted to, combinatorics and graph theory, Boolean algebra, digital logic circuits, functional programming, models of computation, and computational complexity. Prerequisite: MAT 140.
 
-## A Better description:
+## A better description:
 In your first course you learned the basics of some of the many concepts that make up the general study of discrete math. Now, our goal is to develop more of an understanding and appreciation of the rich interplay between mathematics and computer science. Prior to the advent of electronic computers, discrete math was a pretty obscure branch of mathematics. This course aims to tell the story of how it became an important applied area of study. We will see how the computer itself is a physical embodiment of Boolean logic; how programming languages and compilers are constructed from the mathematics of automata theory; that recursive functions serve as a basis of computation; and we’ll see how computational theory shows us the limits of computation. We will also do some basic Racket programming. Racket is a functional language, that is, everything in Rack is a recursive function. While you are probably familiar with procedural programming, it is important to understand more than one programming paradigm.
 
 ## Goals and Objectives:
@@ -54,7 +54,7 @@ Your grade will be determined by:
 * Final Exam: 15%
 
 Letter grades: 
-* [93-100]: A
+* [93-100): A
 * [90-93): A-
 * [87-90): B+
 * [83-87): B
@@ -79,7 +79,7 @@ Letter grades:
 ## What I Expect of You:
 * Devote a minimum of 8 hours a week outside of class time
 * Tell me when you're struggling and give me the chance to help you.
-* Make an effort to work productively in your Scrum teams
+* Make an effort to work productively in your Scrum teams and follow the Scrum values.  ![Scrum Values image][https://github.com/vsummet/mat310_scrummage_master/blob/master/ScrumValues.png]
 * Be patient and respectful with me, your teammates, and yourself
 * Notify me in advance when you need to miss a quiz or other in-class activity
 * Stay abreast of class information.  Regularly check the class calendar, Canvas notifications, and your email
