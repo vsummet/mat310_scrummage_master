@@ -48,8 +48,9 @@ The "Requirements" grade is the problem set.  The scrum artifacts will be graded
 
 # Resources:  
 I may add to these as we go through the sprint.  Use the Expert Request for more resources. 
+  * [Tutorial Point series on Discrete Math](https://www.tutorialspoint.com/discrete_mathematics/discrete_mathematics_introduction.htm) (up through section on Propositional Logic).
   * Math quick-reference sheet (This is the material I would provide on a quiz.  You don't have to memorize it.)
-  * Textbook: 
+  * Textbook: 1.1, 1.2, 1.5, 2.1-2.4
   * Video tutorials on Scrum & Agile.  There are tons.  Check out YouTube.  I also have books on the subject, if you would like.
   * How to draw truth tables. 
   * Lecture slides on Chapter 1 
