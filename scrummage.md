@@ -20,6 +20,9 @@ Up to now, classroom management has been defined by the professor.  However, in 
 We are going to apply the principles of scrum to education. You will be put in teams (later you'll get to choose teams for yourself) and you will be given the things we want to learn and a bunch of choices and resources as to how to learn the material.  Then YOU get to choose how to proceed.
 
 # How Will It Work?
+
+Here's the traditional Scrum workflow: ![scrum workflow graphic(https://github.com/vsummet/mat310_scrummage_master/blob/master/ScrumWorkflow.png)
+
 In Scrumage, the product owner is the professor.  The professor is in charge of defining the requirements and evaluating the results.  The students will be in teams which will each decide how to proceed to get the requirements done.  Note that the teams are NOT creating software.  The "product backlog" is the requirements of the course: understanding certain material, doing the assignments and projects, and completing a quiz.  
 
 # Sprints
