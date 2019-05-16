@@ -1,6 +1,6 @@
 # MAT 310 - Spring 2020
 
-**Details**
+## Details
 * Instructor: Dr. Valerie Summet
   * Office: Bush 218D
   * Office hours: TBD **OR** by appointment **OR** when my door is open
@@ -10,14 +10,21 @@
 * Software: 
 
 
-**Catalog description:** Catalog description: Builds on the foundation established in Introduction to Discrete Mathematics. Topics include, but are not restricted to, combinatorics and graph theory, Boolean algebra, digital logic circuits, functional programming, models of computation, and computational complexity. Prerequisite: MAT 140.
+## Catalog description:
+Catalog description: Builds on the foundation established in Introduction to Discrete Mathematics. Topics include, but are not restricted to, combinatorics and graph theory, Boolean algebra, digital logic circuits, functional programming, models of computation, and computational complexity. Prerequisite: MAT 140.
 
-**A Better description:** In your first course you learned the basics of some of the many concepts that make up the general study of discrete math. Now, our goal is to develop more of an understanding and appreciation of the rich interplay between mathematics and computer science. Prior to the advent of electronic computers, discrete math was a pretty obscure branch of mathematics. This course aims to tell the story of how it became an important applied area of study. We will see how the computer itself is a physical embodiment of Boolean logic; how programming languages and compilers are constructed from the mathematics of automata theory; that recursive functions serve as a basis of computation; and we’ll see how computational theory shows us the limits of computation. We will also do some basic Racket programming. Racket is a functional language, that is, everything in Rack is a recursive function. While you are probably familiar with procedural programming, it is important to understand more than one programming paradigm.
+## A Better description:
+In your first course you learned the basics of some of the many concepts that make up the general study of discrete math. Now, our goal is to develop more of an understanding and appreciation of the rich interplay between mathematics and computer science. Prior to the advent of electronic computers, discrete math was a pretty obscure branch of mathematics. This course aims to tell the story of how it became an important applied area of study. We will see how the computer itself is a physical embodiment of Boolean logic; how programming languages and compilers are constructed from the mathematics of automata theory; that recursive functions serve as a basis of computation; and we’ll see how computational theory shows us the limits of computation. We will also do some basic Racket programming. Racket is a functional language, that is, everything in Rack is a recursive function. While you are probably familiar with procedural programming, it is important to understand more than one programming paradigm.
 
-**Goals and Objectives:**
-* Understand and be able to apply elements of the Scrum development methodology
-* Grow to appreciate the beauty and enjoy the intellectual challenges of mathematics
-* Grow to appreciate and enjoy the applied discipline of computer science
+## Goals and Objectives:
+### The big takeaways:
+1. Understand and be able to apply elements of the Scrum development methodology.  Organize and manage a sprint.
+2. Grow to appreciate the beauty and enjoy the intellectual challenges of mathematics and the restrictions of an applied field such as computer science.
+3. Explore, research, and present an element of historical interest to the field of discrete mathematics and its applications to computer science.
+4. Build and understand the mathematical models of computer hardware
+5. Build and understand the mathematical models of computation and programming
+
+### Specific Topics:
 * Become familiar with the basic concepts of functional programming and design some basic Racket programs
 * Become familiar with Boolean algebra and how it abstracts and unifies propositional logic, set theory, and digital circuit logic
 * Become familiar with the relationship between induction and recursion and gain a better understanding of recursion through functional programming
@@ -27,7 +34,8 @@
 * Become familiar with the Halting Problem and its implications for the limits of computability
 * Become familiar with recurrence relations and their applicability to algorithm analysis.
 
-**Scrummage and Grades:** We will be using a new class management technique called Scrumage in our course. This takes the
+## Scrummage and Grades:
+We will be using a new class management technique called Scrumage in our course. This takes the
 "agile" principles of Scrum used in software companies and applies it to the class environment. You
 will be choosing how you want to learn, learning collaboratively, reflecting on the process, and
 constantly re-evaluating your choices to make the class an ever-evolving, ever-improving learning
@@ -39,9 +47,10 @@ grade reflects your participation in meetings, use of the Scrum board, completin
 being a valuable team member.
 
 Your grade will be determined by:
-* 7 sprint deliverables: 40%
+* 7 sprint deliverables: 35%
 * 7 quizzes: 35%
-* 7 Scrum grades: 10% 
+* 7 Scrumage grades: 10% 
+* Contribution to class timeline: 5%
 * Final Exam: 15%
 
 Letter grades: 
@@ -58,7 +67,7 @@ Letter grades:
 * [60-63): D-
 * [0-60): F
 
-**Sprints:**
+## Sprints:
 * Sprint 1: Propositional Logic and Set Theory review
 * Sprint 2: Data Representation and Circuits, Boolean Algebra
 * Sprint 3: Regular Expressions, FSA, NDFSA, Reg. Languages, Non-regular languages
@@ -67,15 +76,20 @@ Letter grades:
 * Sprint 6: Turing Machines, Computability, Limits of Computation
 * Sprint 7: Recursion, Recursive Definitions
 
-**What I Expect of You:**
+## What I Expect of You:
 * Devote a minimum of 8 hours a week outside of class time
 * Tell me when you're struggling and give me the chance to help you.
-* Make an effort to work in your Scrum teams
+* Make an effort to work productively in your Scrum teams
 * Be patient and respectful with me, your teammates, and yourself
 * Notify me in advance when you need to miss a quiz or other in-class activity
 * Stay abreast of class information.  Regularly check the class calendar, Canvas notifications, and your email
 
-**Resources:**
+## Resources:
+### I feel behind my teammates and need individual help:
 * Me! - My office hours are listed above.  If they don't work for you, just email me and we'll work out a time to meet.
 * Your teammates - This class is deliberately structured to reward your team for working well together and helping each other out.
 * The Tutoring Center (we have a MAT310 tutor who is excellent!)
+### Our team is struggling to work together and be efficient:
+* Me! - My office hours are listed above.  If they don't work for your team, just email me and we'll work out a time to meet.
+* Technology - Remember that being a successful team **does not** mean you have to meet in-person or synchronously.  Consider technology tools like [WebEx](https://rollins.teamdynamix.com/TDClient/KB/?CategoryID=11418) or Skype for videoconferencing, Slack (which has a Trello plugin) or GroupMe for team communication, and GoogleDocs as a flexible team workspace for intermediate ideas and documents.
+* Shake things up.  Remember that a fundamental tenet of Scrum is that it is **agile.**  Be honest with your team about what is not working, brainstorm during your sprint retrospectives, and try something different the next sprint.
