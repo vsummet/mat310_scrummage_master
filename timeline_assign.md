@@ -8,7 +8,7 @@ Knightlab's TimelineJS provides a great (and easy?) way to create a timeline.  H
 As you can see, these timelines can be incredibly informative and engaging with small amounts of text, but a lot of vizualization.  It turns out that the timeline is built on a Google spreadsheet that's formatted in a specific format.  We'll share one spreadsheet in the class, and you will each add your own contributions to the final product.
 
 For this project, you will:
-1. Pick topics: choose 1 from each column below.  Sign-up so that your topic is clearly marked.  No duplication!
+1. Pick topics: choose 1 from each table below.  Sign-up so that your topic is clearly marked.  No duplication!
 2. Find an image or other media artifact for each of your topics.  Read at least 3 popular sources about each topic (one may be Wikipedia).
 3. Citations for everything!
 4. Summarize each topic in 1 paragraph specifically focusing on relevance to math and/or computer science as we've discussed in this course
