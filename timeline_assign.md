@@ -32,6 +32,7 @@ Rózsa Péter | Sprint 7
 Warren McCulloch (and Walter Pitts) |
 George Boole | 
 Akira Nakashima |
+Al Khwarizmi of Baghdad | All sprints 
 
 ### Concepts, theories, etc
 |Concept/Theory/Idea | Most relevant to: |
@@ -45,3 +46,6 @@ Mealy and Moore machines |
 Petri net (?maybe) |
 Richard's controller |
 Karnaugh map |
+Atanasoff–Berry Computer |
+ALGOL-60 | 
+Model checking (property checking) | Sprint 1
