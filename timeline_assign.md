@@ -1,4 +1,4 @@
-One of my goals for you this semester is to allow you to explore an aspect of the course that is of interest to you.  As a class, we'll build a timeline of crucial events, people, and schools of thought that are related to the material we're learning this semester.  In keeping with the Scrum principle of ... class members will be able to work at their own pace and self-organize the project.
+One of my goals for you this semester is to allow you to explore an aspect of the course that is of interest to you.  As a class, we'll build a timeline of crucial events, people, and schools of thought that are related to the material we're learning this semester.  In keeping with the Scrum principle of flexibility, class members will be able to work at their own pace and self-organize the project.
 
 Knightlab's TimelineJS provides a great (and easy?) way to create a timeline.  Here are some fun examples for you to browse through:
 * [The Collapse of Microsoft and Nokia's Mobile Business](https://www.engadget.com/2016/04/22/microsoft-mobile-timeline/)
