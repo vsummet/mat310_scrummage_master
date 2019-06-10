@@ -52,8 +52,8 @@ I may add to these as we go through the sprint.  Use the [Expert Request](https:
   * [Overview of Scrum workflow](https://www.youtube.com/watch?time_continue=5&v=gy1c4_YixCo) (YouTube, 2min)
   * Video tutorials on Scrum & Agile.  There are tons.  Check out YouTube and linkedinlearning.com.  I also have books on the subject, if you would like.
   * [How to draw truth tables](https://docs.google.com/presentation/d/1NTgXBIC98R6yaCiDlf7gotO1NChB8LhzHTOwNvkOrgs/edit#slide=id.p) slide deck
-  * Worksheet on Chapter 1 
-  * Answers to Worksheet
+  * Worksheet on Chapter 1 and answer key
+  * [Practice quiz](./sprint1_practice_quiz.pdf) and [answer key](./sprint1_practice_quiz_ans.pdf)
   * Game Idea 
   * Binary numbering videos (~4 minutes): LinkedIn Learning - [Binary-The Language of Computers](https://www.linkedin.com/learning/digital-media-foundations/binary-the-language-of-computers), and [How to use 1's and 0's to make bigger numbers](https://www.linkedin.com/learning/digital-media-foundations/how-1s-and-0s-make-larger-numbers)
   * [Worked examples using truth tables to prove logical equivalences](https://www.linkedin.com/learning/programming-foundations-discrete-mathematics/solution-write-truth-tables) (LinkedIn Learning, 5min) 
