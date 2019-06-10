@@ -6,7 +6,7 @@
   * Office hours: TBD **OR** by appointment **OR** when my door is open
 * Class time: TR 4-5:15pm
 * Class location: Bush TBD
-* Text: We will use a combination of the open source textbook [Foundations of Computation](http://math.hws.edu/FoundationsOfComputation/FoundationsOfComputation_2.3.2_8.5x11.pdf) (PDF) and instructor provided materials (available on Canvas).  If you would like a printed copy of the textbook, you can get it printed and spiral bound at [Rollins Print Services][https://www.rollins.edu/print-services/] for about $15.  
+* Text: We will use a combination of the open source textbook [Foundations of Computation](http://math.hws.edu/FoundationsOfComputation/FoundationsOfComputation_2.3.2_8.5x11.pdf) (PDF) and instructor provided materials (available on Canvas).  If you would like a printed copy of the textbook, you can get it printed and spiral bound at [Rollins Print Services](https://www.rollins.edu/print-services/) for about $15.  
 * Software: We will be using DrRacket and Java in this class.  This software is free, and instructions will be given on installing and using it during class.  
 
 
