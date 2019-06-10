@@ -48,12 +48,12 @@ The "Requirements" grade is the problem set.  The scrum artifacts will be graded
 # Resources:  
 I may add to these as we go through the sprint.  Use the [Expert Request](https://rollins.co1.qualtrics.com/jfe/form/SV_0jNfbBpN1clDJfn) for more resources. 
    * [Tutorial Point series on Discrete Math](https://www.tutorialspoint.com/discrete_mathematics/discrete_mathematics_introduction.htm) (up through section on Propositional Logic).
-   * Math quick-reference sheet (This is the material I would provide on a quiz.  You don't have to memorize it.)
    * [Overview of Scrum workflow](https://www.youtube.com/watch?time_continue=5&v=gy1c4_YixCo) (YouTube, 2min)
    * Video tutorials on Scrum & Agile.  There are tons.  Check out YouTube and linkedinlearning.com.  I also have books on the subject, if you would like.
    * [How to draw truth tables](https://docs.google.com/presentation/d/1NTgXBIC98R6yaCiDlf7gotO1NChB8LhzHTOwNvkOrgs/edit#slide=id.p) slide deck
    * Worksheet on Chapter 1 and answer key
    * [Practice quiz](./sprint1_practice_quiz.pdf) and [answer key](./sprint1_practice_quiz_ans.pdf)
+      * A quick-reference sheet is on the last page of the quiz.  This is the material I would provide on a quiz.  You don't have to memorize it.
    * Game Idea 
    * Binary numbering videos (~4 minutes): LinkedIn Learning - [Binary-The Language of Computers](https://www.linkedin.com/learning/digital-media-foundations/binary-the-language-of-computers), and [How to use 1's and 0's to make bigger numbers](https://www.linkedin.com/learning/digital-media-foundations/how-1s-and-0s-make-larger-numbers)
    * [Worked examples using truth tables to prove logical equivalences](https://www.linkedin.com/learning/programming-foundations-discrete-mathematics/solution-write-truth-tables) (LinkedIn Learning, 5min) 
@@ -67,7 +67,7 @@ I may add to these as we go through the sprint.  Use the [Expert Request](https:
   * Tuesday: Check worksheet and syllabus quiz & make sure everyone understands. Start problem sets together. Check/Ask professor for help if you're stuck.  Play game together.
   * TODO by Thursday: Have "rough draft" answers for all problems in problem set.  Some may still need group discussion or further clarification.
   * Thursday: Do final check of problem set.  Make sure problem set is neat, tidy, and meets guidelines.  Turn in your problem set at the end of class.
-  * TODO before next class: Play review game if you haven't alreay. Study as a group.
+  * TODO before next class: Play review game if you haven't alreay. Take the practice quiz and check your answers.  Study as a group.  
   * Next Tuesday: Quiz (30 minutes), Sprint 1 retrospective, and Sprint 2 planning.
 
 # Retrospective:
