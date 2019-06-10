@@ -11,53 +11,53 @@ I am having you read from a non-technical book about the value of Scrum, the met
 
 # Responsibilities (What you need to know):
 1. Scrum Processes
-  * Define "Backlog", "Burndown charts", "Planning Poker", "Retrospective"
-  * Why do we use Scrum?  How is it related to Agile?  What are the core values of each?
-  * Be able to use the Trello software.  
+   * Define "Backlog", "Burndown charts", "Planning Poker", "Retrospective"
+   * Why do we use Scrum?  How is it related to Agile?  What are the core values of each?
+   * Be able to use the Trello software.  
 2. Review Logic Basics (Textbook: 1.1, 1.2, 1.5)
    * Variables and propositions
-  * Conjunction, disjunction, negation, conditional, biconditional, exclusive or - logic, operators, and notation
-  * How to draw and complete truth tables
-  * Logical equivalence, tautologies, contradictions
-  * Be able to form the contrapositive, converse, and inverse of propositions
-  * Predicate logic
-  * Quantifiers (universal and existential)
+   * Conjunction, disjunction, negation, conditional, biconditional, exclusive or - logic, operators, and notation
+   * How to draw and complete truth tables
+   * Logical equivalence, tautologies, contradictions
+   * Be able to form the contrapositive, converse, and inverse of propositions
+   * Predicate logic
+   * Quantifiers (universal and existential)
 3. Review Set Basics (Textbook: 2.1, 2.2, 2.4)
-  * Basic vocabulary: elements, empty set, proper subset
-  * Union, intersection, difference, disjoint of sets
-  * Set notation (see table 2.1)
-  * Boolean algebra of sets 
+   * Basic vocabulary: elements, empty set, proper subset
+   * Union, intersection, difference, disjoint of sets
+   * Set notation (see table 2.1)
+   * Boolean algebra of sets 
 4. Basic data represetation (Textbook: 3.3)
-  * Convert decimal to binary representation
-  * Convert binary to hexadecimal
-  * Be able to apply bitwise logical operators
+   * Convert decimal to binary representation
+   * Convert binary to hexadecimal
+   * Be able to apply bitwise logical operators
   
 # Requirements (What you need to do):
 The "Requirements" grade is the problem set.  The scrum artifacts will be graded in a "Scrumage" grade.
 
 ## Individual Requirements:
-  * Understand the concepts on the Responsibilities list.
-  * Read about Scrum.  Link to pdf is on Canvas.
-  * Get an account on Trello.com.  Google "Scrum for Trello" and "Burndown for Trello" and install both these extensions.
-  * Complete the syllabus quiz.  You can work on this as a team, but each member must turn in a signed, individual copy.
+   * Understand the concepts on the Responsibilities list.
+   * Read about Scrum.  Link to pdf is on Canvas.
+   * Get an account on Trello.com.  Google "Scrum for Trello" and "Burndown for Trello" and install both these extensions.
+   * Complete the syllabus quiz.  You can work on this as a team, but each member must turn in a signed, individual copy.
 
 ## Team Requirements:
-  * Set up a shared board on Trello with your tasks for Sprint 1.  Add me to your board, too (user id: vsummet)
-  * Do these two problem sets.
+   * Set up a shared board on Trello with your tasks for Sprint 1.  Add me to your board, too (user id: vsummet)
+   * Do these two problem sets.
 
 # Resources:  
 I may add to these as we go through the sprint.  Use the [Expert Request](https://rollins.co1.qualtrics.com/jfe/form/SV_0jNfbBpN1clDJfn) for more resources. 
-  * [Tutorial Point series on Discrete Math](https://www.tutorialspoint.com/discrete_mathematics/discrete_mathematics_introduction.htm) (up through section on Propositional Logic).
-  * Math quick-reference sheet (This is the material I would provide on a quiz.  You don't have to memorize it.)
-  * [Overview of Scrum workflow](https://www.youtube.com/watch?time_continue=5&v=gy1c4_YixCo) (YouTube, 2min)
-  * Video tutorials on Scrum & Agile.  There are tons.  Check out YouTube and linkedinlearning.com.  I also have books on the subject, if you would like.
-  * [How to draw truth tables](https://docs.google.com/presentation/d/1NTgXBIC98R6yaCiDlf7gotO1NChB8LhzHTOwNvkOrgs/edit#slide=id.p) slide deck
-  * Worksheet on Chapter 1 and answer key
-  * [Practice quiz](./sprint1_practice_quiz.pdf) and [answer key](./sprint1_practice_quiz_ans.pdf)
-  * Game Idea 
-  * Binary numbering videos (~4 minutes): LinkedIn Learning - [Binary-The Language of Computers](https://www.linkedin.com/learning/digital-media-foundations/binary-the-language-of-computers), and [How to use 1's and 0's to make bigger numbers](https://www.linkedin.com/learning/digital-media-foundations/how-1s-and-0s-make-larger-numbers)
-  * [Worked examples using truth tables to prove logical equivalences](https://www.linkedin.com/learning/programming-foundations-discrete-mathematics/solution-write-truth-tables) (LinkedIn Learning, 5min) 
-  * Set Review Videos (~30 min): LinkedIn Learning - Start with [Objects as Sets](https://www.linkedin.com/learning/programming-foundations-discrete-mathematics/objects-as-sets) and watch all of Lesson 2 except Sequences and Sums and Recursion
+   * [Tutorial Point series on Discrete Math](https://www.tutorialspoint.com/discrete_mathematics/discrete_mathematics_introduction.htm) (up through section on Propositional Logic).
+   * Math quick-reference sheet (This is the material I would provide on a quiz.  You don't have to memorize it.)
+   * [Overview of Scrum workflow](https://www.youtube.com/watch?time_continue=5&v=gy1c4_YixCo) (YouTube, 2min)
+   * Video tutorials on Scrum & Agile.  There are tons.  Check out YouTube and linkedinlearning.com.  I also have books on the subject, if you would like.
+   * [How to draw truth tables](https://docs.google.com/presentation/d/1NTgXBIC98R6yaCiDlf7gotO1NChB8LhzHTOwNvkOrgs/edit#slide=id.p) slide deck
+   * Worksheet on Chapter 1 and answer key
+   * [Practice quiz](./sprint1_practice_quiz.pdf) and [answer key](./sprint1_practice_quiz_ans.pdf)
+   * Game Idea 
+   * Binary numbering videos (~4 minutes): LinkedIn Learning - [Binary-The Language of Computers](https://www.linkedin.com/learning/digital-media-foundations/binary-the-language-of-computers), and [How to use 1's and 0's to make bigger numbers](https://www.linkedin.com/learning/digital-media-foundations/how-1s-and-0s-make-larger-numbers)
+   * [Worked examples using truth tables to prove logical equivalences](https://www.linkedin.com/learning/programming-foundations-discrete-mathematics/solution-write-truth-tables) (LinkedIn Learning, 5min) 
+   * Set Review Videos (~30 min): LinkedIn Learning - Start with [Objects as Sets](https://www.linkedin.com/learning/programming-foundations-discrete-mathematics/objects-as-sets) and watch all of Lesson 2 except Sequences and Sums and Recursion
 
 # Reality Check:
   * On Tuesday, do basic team setup and introductions.  Do sprint planning meeting.  Work on syllabus worksheet.
