@@ -39,11 +39,11 @@ The "Requirements" grade is the problem set.  The scrum artifacts will be graded
    * Understand the concepts on the Responsibilities list.
    * Read about Scrum.  Link to pdf is on Canvas.
    * Get an account on Trello.com.  Google "Scrum for Trello" and "Burndown for Trello" and install both these extensions.
-   * Complete the syllabus quiz.  You can work on this as a team, but each member must turn in a signed, individual copy.
+   * Complete the [syllabus quiz](./syllabus_quiz.md).  You can work on this as a team, but each member must turn in a signed, individual copy.
 
 ## Team Requirements:
    * Set up a shared board on Trello with your tasks for Sprint 1.  Add me to your board, too (user id: vsummet)
-   * Do these two problem sets.
+   * Complete this [problem set](./sprint1_prob_set.pdf).
 
 # Resources:  
 I may add to these as we go through the sprint.  Use the [Expert Request](https://rollins.co1.qualtrics.com/jfe/form/SV_0jNfbBpN1clDJfn) for more resources. 
