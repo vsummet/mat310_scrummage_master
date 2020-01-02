@@ -3,7 +3,7 @@
 ## Details
 * Instructor: Dr. Valerie Summet
   * Office: Bush 218D
-  * Office hours: TBD **OR** by appointment **OR** when my door is open
+  * Office hours: TBD **OR** by appointment
 * Class time: MW 1-2:15pm
 * Class location: Bush 208
 * Textbooks: We will use a combination of two required textbooks:
@@ -43,15 +43,15 @@ will be choosing how you want to learn, learning collaboratively, reflecting on 
 constantly re-evaluating your choices to make the class an ever-evolving, ever-improving learning
 experience.
 
-As such, the course content will be broken into 7 sprints. Each sprint
-is one two-week unit of material, with a problem set or project, quiz, and Scrumage grade. The Scrumage
+As such, the course content will be broken into 6-7 sprints. Each sprint
+is one (approximately) two-week unit of material, with a problem set or project, quiz, and Scrumage grade. The Scrumage
 grade reflects your participation in meetings, use of the Scrum board, completing retrospectives, and
 being a valuable team member.
 
 Your grade will be determined by:
-* 7 sprint deliverables: 35%
-* 7 quizzes: 35%
-* 7 Scrumage grades: 15% 
+* Sprint deliverables: 35%
+* Individual quizzes: 35%
+* Scrumage grades: 15% 
 * Final Exam: 15%
 
 Letter grades: 
@@ -68,7 +68,9 @@ Letter grades:
 * [60-63): D-
 * [0-60): F
 
-## Sprints:
+If you or your team disagree with a grade you've received on an assignment, you must let me know within one week of the assignment being returned.  
+
+## Sprints (tentative and subject to change):
 * Sprint 1: Propositional Logic and Set Theory review
 * Sprint 2: Data Representation and Circuits, Boolean Algebra
 * Sprint 3: Regular Expressions, FSA, NDFSA, Reg. Languages, Non-regular languages
@@ -86,11 +88,11 @@ Letter grades:
 * Stay abreast of class information.  Regularly check the class calendar, Canvas notifications, and your email
 
 ## Resources:
-### I feel behind my teammates and need individual help:
+### If you feel behind your teammates and need individual help:
 * Me! - My office hours are listed above.  If they don't work for you, just email me and we'll work out a time to meet.
 * Your teammates - This class is deliberately structured to reward your team for working well together and helping each other out.
 * The Tutoring Center (we have a MAT310 tutor who is excellent!)
-### Our team is struggling to work together and be efficient:
+### Your team is struggling to work together and be efficient:
 * Me! - My office hours are listed above.  If they don't work for your team, just email me and we'll work out a time to meet.
 * Technology - Remember that being a successful team **does not** mean you have to meet in-person or synchronously.  Consider technology tools like [WebEx](https://rollins.teamdynamix.com/TDClient/KB/?CategoryID=11418) or Skype for videoconferencing, Slack (which has a Trello plugin) or GroupMe for team communication, and GoogleDocs as a flexible team workspace for intermediate ideas and documents.
 * Shake things up.  Remember that a fundamental tenet of Scrum is that it is **agile.**  Be honest with your team about what is not working, brainstorm during your sprint retrospectives, and try something different the next sprint.
