@@ -71,4 +71,4 @@ I may add to these as we go through the sprint.  Use the [Expert Request](https:
   * Next Tuesday: Quiz (30 minutes), Sprint 1 retrospective, and Sprint 2 planning.
 
 # Retrospective:
-  * Complete this survey.  Each team member should complete a survey.
+  * Complete this [sprint retrospective survey](https://rollins.co1.qualtrics.com/jfe/form/SV_3rAIzhpHFYbIixf?course=mat310s20&sprint=1).  Each team member should complete a survey.
