@@ -48,7 +48,7 @@ The "Requirements" grade is the problem set.  The scrum artifacts will be graded
    * Complete this [problem set](./sprint1_prob_set.pdf).
 
 # Resources:  
-I may add to these as we go through the sprint.  Use the [Expert Request](https://rollins.co1.qualtrics.com/jfe/form/SV_0jNfbBpN1clDJfn) for more resources. 
+I may add to these as we go through the sprint.  Use the [Expert Request](https://rollins.co1.qualtrics.com/jfe/form/SV_0jNfbBpN1clDJfn?course=mat310s20&sprint=1) for more resources. 
    * [Tutorial Point series on Discrete Math](https://www.tutorialspoint.com/discrete_mathematics/discrete_mathematics_introduction.htm) (up through section on Propositional Logic).
    * [Overview of Scrum workflow](https://www.youtube.com/watch?time_continue=5&v=gy1c4_YixCo) (YouTube, 2min)
    * Video tutorials on Scrum & Agile.  There are tons.  Check out YouTube and linkedinlearning.com.  I also have books on the subject, if you would like.
